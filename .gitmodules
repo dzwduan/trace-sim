@@ -1,0 +1,12 @@
+[submodule "scarab"]
+	path = scarab
+	url = https://github.com/hpsresearchgroup/scarab.git
+[submodule "macsim"]
+	path = macsim
+	url = https://github.com/gthparch/macsim.git
+[submodule "ChampSim"]
+	path = ChampSim
+	url = https://github.com/ChampSim/ChampSim.git
+[submodule "FlexiCAS"]
+	path = FlexiCAS
+	url = https://github.com/comparch-security/FlexiCAS.git
